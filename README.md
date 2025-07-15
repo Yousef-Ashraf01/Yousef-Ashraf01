@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, my name is Yousef Ashraf 👋
 
-<!--
-**Yousef-Ashraf01/Yousef-Ashraf01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Flutter developer who loves crafting elegant, scalable, and high-performance mobile apps.
 
-Here are some ideas to get you started:
+## 🧠 About Me
+- 🔭 I’m currently working on improving my skills in **Flutter & Firebase**
+- 🌱 Learning more about **Clean Architecture** and **State Management**
+- 💬 Ask me about anything related to Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages and Tools
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+## 📈 My GitHub Stats
+
+![Yousef's GitHub stats](https://github-readme-stats.vercel.app/api?username=YousefAshraf01&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YousefAshraf01&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YousefAshraf01)
+
